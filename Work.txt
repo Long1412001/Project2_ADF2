@@ -18,3 +18,5 @@ giao diện
 database
 12. Design database		/ Minh, Long, Thành	/ Đã xong
 13. Nhập dữ liệu vào database	/ Tuấn, Thành		/ 11/10-12/10
+
+https://trello.com/b/HxXlVZoe/project-adf2
